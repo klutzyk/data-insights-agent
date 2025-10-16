@@ -40,14 +40,6 @@ python app/run.py --mode web
 pytest tests/
 ```
 
-### Adding New Features
-
-1. Create feature branch
-2. Implement functionality in appropriate `src/` module
-3. Add tests in `tests/`
-4. Update documentation
-5. Submit pull request
-
 ## License
 
 MIT License
